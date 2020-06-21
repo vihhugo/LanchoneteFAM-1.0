@@ -177,7 +177,7 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::WindowsFormsApp1.Properties.Resources.Lanchonete_FAM_2;
+            this.pictureBox1.Image = global::LanchoneteFAM.Properties.Resources.Lanchonete_FAM_2;
             this.pictureBox1.Location = new System.Drawing.Point(141, 19);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(533, 153);
